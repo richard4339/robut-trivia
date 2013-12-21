@@ -1,6 +1,9 @@
 = robut-trivia
 
-Description goes here.
+A trivia plugin for robut[https://github.com/justinweiss/robut]
+
+{<img src="https://badge.fury.io/rb/robut-trivia.png" alt="Gem Version" />}[http://badge.fury.io/rb/robut-trivia]
+
 
 == Contributing to robut-trivia
  
